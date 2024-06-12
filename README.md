@@ -55,3 +55,10 @@
      - 일치 연산자 : ===, !===
      - 이진 논리 연산자 : &&, ||,  => treu false 연산
      - 조건부(삼항) 연산자 : 조건식? true일 경우 : false일 경우
+  
+
+#### 4) JS function
+1. 함수 : 입력을 받아서 정해진 출력을 하는 것
+      - Parameters || Arguments
+      <img src = "https://github.com/seoin1223/First-react/assets/129828463/24c61747-9ec0-44b9-a1e2-00583895510d" width = "100%" height = "600px" />
+
