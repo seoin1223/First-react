@@ -19,4 +19,15 @@
 16. [Mini Project](#)
 17. [Appendix A](#)
 
+<br>
 
+## 1. 준비하기
+### a. HTML & CSS
+#### 1) html
+- 웹 사이트의 뼈대를 구성하기 위해 사용하는 마크업 언어
+- Tag를 이용하여 구조를 형성
+- `<html></html>`
+
+
+#### 2) CSS
+- Cascading Style Sheets
