@@ -31,3 +31,16 @@
 
 #### 2) CSS
 - Cascading Style Sheets
+
+#### 3) JavaScript
+1. 특징
+   - 런타임인터프리터 언어 : 인터프리터 언어이지만, 웹 브라우저 대부분에는 JIT 컴파일러(실행 시간에 js코드를 컴파일함)가 내장되어 있어, 실행 속도가 매우 빠르다.
+   - 객체 기반의 script 언어
+   - 동적 프로토타입 기반 객체 지향 언어 : 클래스가 아닌, 프로토타입을 상속.
+   - 일급 객체 함수 : 고차 함수를 구현할 수 있어 함수형 프로그래밍이 가능. => 객체 지향형 프로그래밍과 함수형 프로그래밍을 모두 표현할 수 있다.
+   - 동적 타입 언어 : 변수 타입이 없기 때문에, 프로그램 실행 도중 변수에 저장되는 데이터 타입이 동적으로 바뀔 수 있다. (Type Coercion)
+   - single thread 기반 언어 : stack 위에 함수를 올려 실행하고, 끝나면 stack에서 제거한다. (한 번에 하나의 task만 처리, 동기적.)
+   - non-blocking 언어 : event loop와 callback queue가 있기 때문에, single thread 기반이어도 다른 이벤트를 비동기적으로 처리할 수 있다. (ex. setTimeout, async await..)
+
+2. 문법
+   - 자료형 : var, let, const 
